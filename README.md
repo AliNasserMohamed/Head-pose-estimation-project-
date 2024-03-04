@@ -4,6 +4,11 @@ Head orientation can be defined using pitch, yaw, and roll, so I used a machine 
 
 
 
+https://github.com/AliNasserMohamed/Head-pose-estimation-project-/assets/67801762/b0ad896b-07da-44fa-9622-84f0a502d560
+
+
+
+
 https://github.com/AliNasserMohamed/Head-pose-estimation-project-/assets/67801762/4357786e-a2f6-4972-aa94-7bffe7fa5041
 
 
